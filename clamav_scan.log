@@ -1,0 +1,47 @@
+
+-------------------------------------------------------------------------------
+
+ERROR: Can't open file or directory
+
+----------- SCAN SUMMARY -----------
+Known viruses: 0
+Engine version: 0.103.12
+Scanned directories: 0
+Scanned files: 0
+Infected files: 0
+Data scanned: 0.00 MB
+Data read: 0.00 MB (ratio 0.00:1)
+Time: 0.006 sec (0 m 0 s)
+Start Date: 2024:11:29 06:59:24
+End Date:   2024:11:29 06:59:24
+
+-------------------------------------------------------------------------------
+
+ERROR: Can't open file or directory
+
+----------- SCAN SUMMARY -----------
+Known viruses: 0
+Engine version: 0.103.12
+Scanned directories: 0
+Scanned files: 0
+Infected files: 0
+Data scanned: 0.00 MB
+Data read: 0.00 MB (ratio 0.00:1)
+Time: 0.003 sec (0 m 0 s)
+Start Date: 2024:11:29 07:02:19
+End Date:   2024:11:29 07:02:19
+
+-------------------------------------------------------------------------------
+
+
+----------- SCAN SUMMARY -----------
+Known viruses: 8700209
+Engine version: 0.103.12
+Scanned directories: 211
+Scanned files: 808
+Infected files: 0
+Data scanned: 84.10 MB
+Data read: 68.94 MB (ratio 1.22:1)
+Time: 353.099 sec (5 m 53 s)
+Start Date: 2024:11:29 07:15:36
+End Date:   2024:11:29 07:21:29

@@ -1,0 +1,503 @@
+<!DOCTYPE html>
+<html lang="en-US" class="html_stretched responsive av-preloader-disabled  html_header_top html_logo_left html_main_nav_header html_menu_right html_custom html_header_sticky html_header_shrinking_disabled html_header_topbar_active html_mobile_menu_tablet html_header_searchicon_disabled html_content_align_center html_header_unstick_top_disabled html_header_stretch_disabled html_minimal_header html_av-overlay-side html_av-overlay-side-classic html_av-submenu-noclone html_entry_id_4155 av-cookies-no-cookie-consent av-no-preview av-default-lightbox html_text_menu_active av-mobile-menu-switch-default">
+<head>
+<meta charset="UTF-8" />
+<meta name="robots" content="index, follow" />
+
+
+<!-- mobile setting -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Scripts/CSS and wp_head hook -->
+<title>DIGITAL LITERACY AND ITS&#8217; RELEVANCE &#8211; Compudon Junior</title>
+<meta name='robots' content='max-image-preview:large' />
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	<link rel="alternate" type="application/rss+xml" title="Compudon Junior &raquo; Feed" href="https://compudonjunior.in/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Compudon Junior &raquo; Comments Feed" href="https://compudonjunior.in/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Compudon Junior &raquo; DIGITAL LITERACY AND ITS&#8217; RELEVANCE Comments Feed" href="https://compudonjunior.in/2022/08/25/digital-literacy-and-its-relevance/feed/" />
+
+<!-- google webfont font replacement -->
+
+			<script type='text/javascript'>
+
+				(function() {
+
+					/*	check if webfonts are disabled by user setting via cookie - or user must opt in.	*/
+					var html = document.getElementsByTagName('html')[0];
+					var cookie_check = html.className.indexOf('av-cookies-needs-opt-in') >= 0 || html.className.indexOf('av-cookies-can-opt-out') >= 0;
+					var allow_continue = true;
+					var silent_accept_cookie = html.className.indexOf('av-cookies-user-silent-accept') >= 0;
+
+					if( cookie_check && ! silent_accept_cookie )
+					{
+						if( ! document.cookie.match(/aviaCookieConsent/) || html.className.indexOf('av-cookies-session-refused') >= 0 )
+						{
+							allow_continue = false;
+						}
+						else
+						{
+							if( ! document.cookie.match(/aviaPrivacyRefuseCookiesHideBar/) )
+							{
+								allow_continue = false;
+							}
+							else if( ! document.cookie.match(/aviaPrivacyEssentialCookiesEnabled/) )
+							{
+								allow_continue = false;
+							}
+							else if( document.cookie.match(/aviaPrivacyGoogleWebfontsDisabled/) )
+							{
+								allow_continue = false;
+							}
+						}
+					}
+
+					if( allow_continue )
+					{
+						var f = document.createElement('link');
+
+						f.type 	= 'text/css';
+						f.rel 	= 'stylesheet';
+						f.href 	= 'https://fonts.googleapis.com/css?family=Open+Sans:400,600&display=auto';
+						f.id 	= 'avia-google-webfont';
+
+						document.getElementsByTagName('head')[0].appendChild(f);
+					}
+				})();
+
+			</script>
+			<link rel='stylesheet' id='wp-block-library-css' href='https://compudonjunior.in/wp-includes/css/dist/block-library/style.min.css?ver=6.7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-call-btn-guten-blocks-style-css' href='https://compudonjunior.in/wp-content/plugins/wp-call-button/assets/block/build/index.css?ver=a1dbfd3fcfcfb0740ca8c4771bbdc4c3' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--metallic-red: #b02b2c;--wp--preset--color--maximum-yellow-red: #edae44;--wp--preset--color--yellow-sun: #eeee22;--wp--preset--color--palm-leaf: #83a846;--wp--preset--color--aero: #7bb0e7;--wp--preset--color--old-lavender: #745f7e;--wp--preset--color--steel-teal: #5f8789;--wp--preset--color--raspberry-pink: #d65799;--wp--preset--color--medium-turquoise: #4ecac2;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 1rem;--wp--preset--font-size--medium: 1.125rem;--wp--preset--font-size--large: 1.75rem;--wp--preset--font-size--x-large: clamp(1.75rem, 3vw, 2.25rem);--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:root { --wp--style--global--content-size: 800px;--wp--style--global--wide-size: 1130px; }:where(body) { margin: 0; }.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}.is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}a:where(:not(.wp-element-button)){text-decoration: underline;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;line-height: inherit;padding: calc(0.667em + 2px) calc(1.333em + 2px);text-decoration: none;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-metallic-red-color{color: var(--wp--preset--color--metallic-red) !important;}.has-maximum-yellow-red-color{color: var(--wp--preset--color--maximum-yellow-red) !important;}.has-yellow-sun-color{color: var(--wp--preset--color--yellow-sun) !important;}.has-palm-leaf-color{color: var(--wp--preset--color--palm-leaf) !important;}.has-aero-color{color: var(--wp--preset--color--aero) !important;}.has-old-lavender-color{color: var(--wp--preset--color--old-lavender) !important;}.has-steel-teal-color{color: var(--wp--preset--color--steel-teal) !important;}.has-raspberry-pink-color{color: var(--wp--preset--color--raspberry-pink) !important;}.has-medium-turquoise-color{color: var(--wp--preset--color--medium-turquoise) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-metallic-red-background-color{background-color: var(--wp--preset--color--metallic-red) !important;}.has-maximum-yellow-red-background-color{background-color: var(--wp--preset--color--maximum-yellow-red) !important;}.has-yellow-sun-background-color{background-color: var(--wp--preset--color--yellow-sun) !important;}.has-palm-leaf-background-color{background-color: var(--wp--preset--color--palm-leaf) !important;}.has-aero-background-color{background-color: var(--wp--preset--color--aero) !important;}.has-old-lavender-background-color{background-color: var(--wp--preset--color--old-lavender) !important;}.has-steel-teal-background-color{background-color: var(--wp--preset--color--steel-teal) !important;}.has-raspberry-pink-background-color{background-color: var(--wp--preset--color--raspberry-pink) !important;}.has-medium-turquoise-background-color{background-color: var(--wp--preset--color--medium-turquoise) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-metallic-red-border-color{border-color: var(--wp--preset--color--metallic-red) !important;}.has-maximum-yellow-red-border-color{border-color: var(--wp--preset--color--maximum-yellow-red) !important;}.has-yellow-sun-border-color{border-color: var(--wp--preset--color--yellow-sun) !important;}.has-palm-leaf-border-color{border-color: var(--wp--preset--color--palm-leaf) !important;}.has-aero-border-color{border-color: var(--wp--preset--color--aero) !important;}.has-old-lavender-border-color{border-color: var(--wp--preset--color--old-lavender) !important;}.has-steel-teal-border-color{border-color: var(--wp--preset--color--steel-teal) !important;}.has-raspberry-pink-border-color{border-color: var(--wp--preset--color--raspberry-pink) !important;}.has-medium-turquoise-border-color{border-color: var(--wp--preset--color--medium-turquoise) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='owlcss-css' href='https://compudonjunior.in/wp-content/plugins/lgx-owl-carousel/public/assets/lib/owl.carousel2/owl.carousel.css?ver=2.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='owltheme-css' href='https://compudonjunior.in/wp-content/plugins/lgx-owl-carousel/public/assets/lib/owl.carousel2/owl.theme.default.min.css?ver=2.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='lgx-owl-carousel-css' href='https://compudonjunior.in/wp-content/plugins/lgx-owl-carousel/public/assets/css/lgx-owl-carousel-public.css?ver=2.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-merged-styles-css' href='https://compudonjunior.in/wp-content/uploads/dynamic_avia/avia-merged-styles-d161c25498bc971d0d1c05a9830361f2---673fc8791ace5.css' type='text/css' media='all' />
+<script type="text/javascript" src="https://compudonjunior.in/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://compudonjunior.in/wp-content/plugins/lgx-owl-carousel/public/assets/lib/owl.carousel2/owl.carousel.js?ver=2.0.0" id="lgxowljs-js"></script>
+<script type="text/javascript" id="lgx-owl-carousel-js-extra">
+/* <![CDATA[ */
+var lgxcarousel = {"owl_navigationTextL":"https:\/\/compudonjunior.in\/wp-content\/plugins\/lgx-owl-carousel\/public\/assets\/img\/arrow-left.png","owl_navigationTextR":"https:\/\/compudonjunior.in\/wp-content\/plugins\/lgx-owl-carousel\/public\/assets\/img\/arrow-right.png"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://compudonjunior.in/wp-content/plugins/lgx-owl-carousel/public/assets/js/lgx-owl-carousel-public.js?ver=2.0.0" id="lgx-owl-carousel-js"></script>
+<script type="text/javascript" src="https://compudonjunior.in/wp-content/uploads/dynamic_avia/avia-head-scripts-0bc0a5e30173e8a6530d50e45387c4e2---673fc8792802f.js" id="avia-head-scripts-js"></script>
+<link rel="https://api.w.org/" href="https://compudonjunior.in/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://compudonjunior.in/wp-json/wp/v2/posts/4155" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://compudonjunior.in/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.7.1" />
+<link rel="canonical" href="https://compudonjunior.in/2022/08/25/digital-literacy-and-its-relevance/" />
+<link rel='shortlink' href='https://compudonjunior.in/?p=4155' />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://compudonjunior.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcompudonjunior.in%2F2022%2F08%2F25%2Fdigital-literacy-and-its-relevance%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://compudonjunior.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcompudonjunior.in%2F2022%2F08%2F25%2Fdigital-literacy-and-its-relevance%2F&#038;format=xml" />
+<script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
+<df-messenger
+  chat-icon="https://compudonjunior.in/wp-content/uploads/2024/03/charlie.jpg"
+  intent="WELCOME"
+  chat-title="Charlie"
+  agent-id="8fffd473-e39a-408a-9f1c-6f71a1eb49d8"
+  language-code="en"
+  chat-window-height="100px"
+></df-messenger>
+<style>
+df-messenger {
+	--df-messenger-bot-message: white;
+	--df-messenger-chat-window-height:80px;
+   --df-messenger-titlebar-background:#3b851a;
+	--df0messenger-titlebar-font-color:blue;
+   --df-messenger-titlebar-icon-height:18px;
+   --df-messenger-button-titlebar-color: white;
+--df-messenger-button-titlebar-font-color: blue
+   --df-messenger-font-color: black;
+   --df-messenger-send-icon: #878fac;
+   --df-messenger-user-message: white;
+   --df-messenger-minimized-chat-close-icon-color: white;
+  }
+</style>
+
+<!-- Jquery CDN -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script>
+        //To minimise the height of chatbox
+        $(document).ready(function() {
+            window.addEventListener('dfMessengerLoaded', function (event) {
+            $r1 = document.querySelector("df-messenger");
+            $r2 = $r1.shadowRoot.querySelector("df-messenger-chat");
+            $r3 = $r2.shadowRoot.querySelector("df-messenger-user-input"); //for other mods
+            var sheet = new CSSStyleSheet;
+            // manage box height from here
+            sheet.replaceSync( `div.chat-wrapper[opened="true"] { height: 450px }`);
+            $r2.shadowRoot.adoptedStyleSheets = [ sheet ];
+            });
+        });
+    </script>
+<style> .lgx-carousel-section .lgx-carousel .owl-video-tn{height: 350px; width: 100%;} </style><link rel="profile" href="https://gmpg.org/xfn/11" />
+<link rel="alternate" type="application/rss+xml" title="Compudon Junior RSS2 Feed" href="https://compudonjunior.in/feed/" />
+<link rel="pingback" href="https://compudonjunior.in/xmlrpc.php" />
+
+<style type='text/css' media='screen'>
+ #top #header_main > .container, #top #header_main > .container .main_menu  .av-main-nav > li > a, #top #header_main #menu-item-shop .cart_dropdown_link{ height:75px; line-height: 75px; }
+ .html_top_nav_header .av-logo-container{ height:75px;  }
+ .html_header_top.html_header_sticky #top #wrap_all #main{ padding-top:103px; } 
+</style>
+<!--[if lt IE 9]><script src="https://compudonjunior.in/wp-content/themes/enfold/js/html5shiv.js"></script><![endif]-->
+<link rel="icon" href="https://compudonjunior.in/wp-content/uploads/2022/10/234-removebg-preview.png" type="image/png">
+
+<!-- To speed up the rendering and to display the site as fast as possible to the user we include some styles and scripts for above the fold content inline -->
+<script type="text/javascript">'use strict';var avia_is_mobile=!1;if(/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)&&'ontouchstart' in document.documentElement){avia_is_mobile=!0;document.documentElement.className+=' avia_mobile '}
+else{document.documentElement.className+=' avia_desktop '};document.documentElement.className+=' js_active ';(function(){var e=['-webkit-','-moz-','-ms-',''],n='',o=!1,a=!1;for(var t in e){if(e[t]+'transform' in document.documentElement.style){o=!0;n=e[t]+'transform'};if(e[t]+'perspective' in document.documentElement.style){a=!0}};if(o){document.documentElement.className+=' avia_transform '};if(a){document.documentElement.className+=' avia_transform3d '};if(typeof document.getElementsByClassName=='function'&&typeof document.documentElement.getBoundingClientRect=='function'&&avia_is_mobile==!1){if(n&&window.innerHeight>0){setTimeout(function(){var e=0,o={},a=0,t=document.getElementsByClassName('av-parallax'),i=window.pageYOffset||document.documentElement.scrollTop;for(e=0;e<t.length;e++){t[e].style.top='0px';o=t[e].getBoundingClientRect();a=Math.ceil((window.innerHeight+i-o.top)*0.3);t[e].style[n]='translate(0px, '+a+'px)';t[e].style.top='auto';t[e].className+=' enabled-parallax '}},50)}}})();</script>		<style type="text/css" id="wp-custom-css">
+			#top #header_meta, #top #header_meta nav ul ul li, #top #header_meta nav ul ul a, #top #header_meta nav ul ul {
+    background-color: #004e61;
+    border-bottom: solid 1px;
+}
+
+
+
+.av-iconlist-small .iconlist_title_small {
+    line-height: 2.45em;
+}
+
+#top #wrap_all .av-social-link-facebook a {
+    color: #fff;
+    background-color: #fdcc3b;
+}
+
+#top #wrap_all .av-social-link-facebook:hover a {
+    color: #fff;
+    background-color: #37589b;
+}
+#top #wrap_all .av-social-link-flickr a {
+    color: #fff;
+    background-color: #fdcc3b;
+}
+
+#top #wrap_all .av-social-link-flickr:hover a {
+    color: #fff;
+    background-color: #fdcc3b;
+}
+#top #wrap_all .av-social-link-twitter a {
+    color: #fff;
+    background-color: #fdcc3b;
+}
+
+#top #wrap_all .av-social-link-twitter:hover a {
+    color: #fff;
+    background-color: #fdcc3b;
+}
+#top #wrap_all .av-social-link-youtube a {
+    color: #fff;
+    background-color: #fdcc3b;
+}
+
+#top #wrap_all .av-social-link-youtube:hover a {
+    color: #fff;
+    background-color: #fdcc3b;
+}
+ #top .social_bookmarks li a { width: 27px;
+}
+.logo img, .logo svg {
+    padding: 7px;
+}
+#top .av-iconlist-small .iconlist_icon {
+    background: transparent;
+    color: inherit;
+    height: 1.45em;
+    width: 1.45em;
+    line-height: 2.45em;
+}
+#top .av-trans-light-style .av-countdown-cell-inner {
+    color: #fdcc3b;
+    background: transparent;
+    border: 1px solid #fdcc3b;
+    margin: 2px;
+}
+#top #header_meta a, #top #header_meta li, #top #header_meta .phone-info {
+	font-size: 14px;
+}
+.avia-image-container.av-24ijdi-4d8d24bda7bb412093a19fc2cd44a236 img.avia_image {
+    box-shadow: none;
+    border: 5px solid;
+}
+    .avia-image-container.av-24ijdi-058978a362a1ce7468bf723489c11c16 img.avia_image {
+    box-shadow: none;
+    border: 5px solid #004e61;
+}
+.avia-image-container.av-1jysz2-547d07ef94dadfd70b1dcceede01c438 img.avia_image {
+    box-shadow: none;
+  border: 5px solid #004e61;
+}
+.avia-image-container.av-l92dpi3p-686cc68ce66054bb8af6b848674609be img.avia_image {
+    box-shadow: none;
+	border: 5px solid #004e61;
+}
+.avia-image-container.av-13bv8u-aaf03cc3081f93255104c1cfef77d000 img.avia_image {
+    box-shadow: none;
+	border: 5px solid #004e61;
+
+}
+.avia-image-container.av-cubba-ef77ccf154ae98b6172b5bd59c525bd9 img.avia_image {
+    box-shadow: none;
+	border: 5px solid #004e61;
+}
+.avia-image-container.av-13bv8u-5901d1fdb6c462e52fa76b28319856ee img.avia_image {
+    box-shadow: none;
+    border: 4px solid  #004e61;
+}
+
+.av-inner-tab-title {
+    text-transform: uppercase;
+    display: unset;
+    line-height: 1.2em;
+    margin-top: 7px;
+    margin-bottom: 3px;
+    font-size: 17px;
+    text-align: left;
+}		</style>
+		<style type="text/css">
+		@font-face {font-family: 'entypo-fontello'; font-weight: normal; font-style: normal; font-display: auto;
+		src: url('https://compudonjunior.in/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.woff2') format('woff2'),
+		url('https://compudonjunior.in/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.woff') format('woff'),
+		url('https://compudonjunior.in/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.ttf') format('truetype'),
+		url('https://compudonjunior.in/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.svg#entypo-fontello') format('svg'),
+		url('https://compudonjunior.in/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.eot'),
+		url('https://compudonjunior.in/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.eot?#iefix') format('embedded-opentype');
+		} #top .avia-font-entypo-fontello, body .avia-font-entypo-fontello, html body [data-av_iconfont='entypo-fontello']:before{ font-family: 'entypo-fontello'; }
+		</style>
+
+<!--
+Debugging Info for Theme support: 
+
+Theme: Enfold
+Version: 5.7.1
+Installed: enfold
+AviaFramework Version: 5.6
+AviaBuilder Version: 5.3
+aviaElementManager Version: 1.0.1
+ML:512-PU:27-PLA:5
+WP:6.7.1
+Compress: CSS:all theme files - JS:all theme files
+Updates: disabled
+PLAu:5
+-->
+</head>
+
+<body id="top" class="post-template-default single single-post postid-4155 single-format-standard stretched rtl_columns av-curtain-numeric open_sans  avia-responsive-images-support" itemscope="itemscope" itemtype="https://schema.org/WebPage" >
+
+	
+	<div id='wrap_all'>
+
+	
+<header id='header' class='all_colors header_color dark_bg_color  av_header_top av_logo_left av_main_nav_header av_menu_right av_custom av_header_sticky av_header_shrinking_disabled av_header_stretch_disabled av_mobile_menu_tablet av_header_searchicon_disabled av_header_unstick_top_disabled av_minimal_header av_bottom_nav_disabled  av_alternate_logo_active av_header_border_disabled' data-av_shrink_factor='50' role="banner" itemscope="itemscope" itemtype="https://schema.org/WPHeader" >
+
+		<div id='header_meta' class='container_wrap container_wrap_meta  av_icon_active_right av_extra_header_active av_phone_active_left av_entry_id_4155'>
+
+			      <div class='container'>
+			      <ul class='noLightbox social_bookmarks icon_count_5'><li class='social_bookmarks_facebook av-social-link-facebook social_icon_1'><a target="_blank" aria-label="Link to Facebook" href='https://www.facebook.com/compudonjunior' aria-hidden='false' data-av_icon='' data-av_iconfont='entypo-fontello' title='Facebook' rel="noopener"><span class='avia_hidden_link_text'>Facebook</span></a></li><li class='social_bookmarks_twitter av-social-link-twitter social_icon_2'><a target="_blank" aria-label="Link to X" href='https://twitter.com/compudonjunior' aria-hidden='false' data-av_icon='' data-av_iconfont='entypo-fontello' title='X' rel="noopener"><span class='avia_hidden_link_text'>X</span></a></li><li class='social_bookmarks_youtube av-social-link-youtube social_icon_3'><a target="_blank" aria-label="Link to Youtube" href='https://www.youtube.com/user/Compudon2011' aria-hidden='false' data-av_icon='' data-av_iconfont='entypo-fontello' title='Youtube' rel="noopener"><span class='avia_hidden_link_text'>Youtube</span></a></li><li class='social_bookmarks_flickr av-social-link-flickr social_icon_4'><a target="_blank" aria-label="Link to Flickr" href='https://www.flickr.com/photos/compudon_memoirs' aria-hidden='false' data-av_icon='' data-av_iconfont='entypo-fontello' title='Flickr' rel="noopener"><span class='avia_hidden_link_text'>Flickr</span></a></li><li class='social_bookmarks_whatsapp av-social-link-whatsapp social_icon_5'><a target="_blank" aria-label="Link to WhatsApp" href='https://wa.me/918383056545' aria-hidden='false' data-av_icon='' data-av_iconfont='entypo-fontello' title='WhatsApp' rel="noopener"><span class='avia_hidden_link_text'>WhatsApp</span></a></li></ul><div class='phone-info '><div><p style="color:#ffffff; font-family: "Goudy Old Style";"> For enrolling/queries, write to us at <a href="mailto:info@compudonjunior.com"> info@compudonjunior.com</a></p></div></div>			      </div>
+		</div>
+
+		<div  id='header_main' class='container_wrap container_wrap_logo'>
+
+        <div class='container av-logo-container'><div class='inner-container'><span class='logo avia-standard-logo'><a href='https://compudonjunior.in/' class='' aria-label='COMPUDON JUNIOR Transparent' title='COMPUDON JUNIOR Transparent'><img src="https://compudonjunior.in/wp-content/uploads/2022/10/COMPUDON-JUNIOR-Transparent.png" srcset="https://compudonjunior.in/wp-content/uploads/2022/10/COMPUDON-JUNIOR-Transparent.png 1006w, https://compudonjunior.in/wp-content/uploads/2022/10/COMPUDON-JUNIOR-Transparent-300x267.png 300w, https://compudonjunior.in/wp-content/uploads/2022/10/COMPUDON-JUNIOR-Transparent-768x683.png 768w, https://compudonjunior.in/wp-content/uploads/2022/10/COMPUDON-JUNIOR-Transparent-705x627.png 705w" sizes="(max-width: 1006px) 100vw, 1006px" height="100" width="300" alt='Compudon Junior' title='COMPUDON JUNIOR Transparent' /></a></span><nav class='main_menu' data-selectname='Select a page'  role="navigation" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement" ><div class="avia-menu av-main-nav-wrap"><ul role="menu" class="menu av-main-nav" id="avia-menu"><li role="menuitem" id="menu-item-755" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-top-level menu-item-top-level-1"><a href="https://compudonjunior.in/" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Home</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li role="menuitem" id="menu-item-4400" class="menu-item menu-item-type-taxonomy menu-item-object-nav_menu menu-item-has-children menu-item-top-level menu-item-top-level-2"><a href="https://compudonjunior.in/?taxonomy=nav_menu&amp;term=winners" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Winners</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a>
+
+
+<ul class="sub-menu">
+	<li role="menuitem" id="menu-item-3262" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://compudonjunior.in/regional-winners/" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Regional Winners</span></a></li>
+	<li role="menuitem" id="menu-item-5104" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://compudonjunior.in/international-winners/" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">International Winners</span></a></li>
+	<li role="menuitem" id="menu-item-3652" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://compudonjunior.in/rankholders/" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">National Rank Holders</span></a></li>
+	<li role="menuitem" id="menu-item-5879" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://compudonjunior.in/finalists/" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">India Finalists</span></a></li>
+	<li role="menuitem" id="menu-item-5108" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://compudonjunior.in/past-winners/" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Past Winners</span></a></li>
+</ul>
+</li>
+<li role="menuitem" id="menu-item-3653" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-top-level menu-item-top-level-3"><a href="https://compudonjunior.in/prizes/" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Prizes</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li role="menuitem" id="menu-item-4420" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-top-level menu-item-top-level-4"><a href="https://compudonjunior.in/registration/" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Registration</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li role="menuitem" id="menu-item-3261" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-top-level menu-item-top-level-5"><a href="https://compudonjunior.in/rules/" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Rules</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li role="menuitem" id="menu-item-3263" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-top-level menu-item-top-level-6"><a href="https://compudonjunior.in/blog-2/" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Blog</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li role="menuitem" id="menu-item-3260" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-top-level menu-item-top-level-7"><a href="https://compudonjunior.in/hall-of-fame/" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Hall of Fame</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li role="menuitem" id="menu-item-4408" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-top-level menu-item-top-level-8"><a href="https://compudonjunior.in/gallery/#2023" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">Gallery</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li role="menuitem" id="menu-item-5564" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-top-level menu-item-top-level-9"><a href="https://compudonjunior.in/about/" itemprop="url" tabindex="0"><span class="avia-bullet"></span><span class="avia-menu-text">About Us</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li class="av-burger-menu-main menu-item-avia-special av-small-burger-icon" role="menuitem">
+	        			<a href="#" aria-label="Menu" aria-hidden="false">
+							<span class="av-hamburger av-hamburger--spin av-js-hamburger">
+								<span class="av-hamburger-box">
+						          <span class="av-hamburger-inner"></span>
+						          <strong>Menu</strong>
+								</span>
+							</span>
+							<span class="avia_hidden_link_text">Menu</span>
+						</a>
+	        		   </li></ul></div></nav></div> </div> 
+		<!-- end container_wrap-->
+		</div>
+<div class="header_bg"></div>
+<!-- end header -->
+</header>
+
+	<div id='main' class='all_colors' data-scroll-offset='73'>
+
+	
+		<div class='container_wrap container_wrap_first main_color fullsize'>
+
+			<div class='container template-blog template-single-blog '>
+
+				<main class='content units av-content-full alpha  av-main-single'  role="main" itemscope="itemscope" itemtype="https://schema.org/Blog" >
+
+					<article class="post-entry post-entry-type-standard post-entry-4155 post-loop-1 post-parity-odd post-entry-last single-big with-slider post-4155 post type-post status-publish format-standard has-post-thumbnail hentry category-blogs tag-digital-literacy"  itemscope="itemscope" itemtype="https://schema.org/BlogPosting" itemprop="blogPost" ><div class="big-preview single-big"  itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject" ><a href="https://compudonjunior.in/wp-content/uploads/2022/08/digital-literacy-for-blog-1030x727.jpg" data-srcset="https://compudonjunior.in/wp-content/uploads/2022/08/digital-literacy-for-blog-1030x727.jpg 1030w, https://compudonjunior.in/wp-content/uploads/2022/08/digital-literacy-for-blog-300x212.jpg 300w, https://compudonjunior.in/wp-content/uploads/2022/08/digital-literacy-for-blog-768x542.jpg 768w, https://compudonjunior.in/wp-content/uploads/2022/08/digital-literacy-for-blog-1536x1084.jpg 1536w, https://compudonjunior.in/wp-content/uploads/2022/08/digital-literacy-for-blog-1500x1059.jpg 1500w, https://compudonjunior.in/wp-content/uploads/2022/08/digital-literacy-for-blog-260x185.jpg 260w, https://compudonjunior.in/wp-content/uploads/2022/08/digital-literacy-for-blog-705x498.jpg 705w, https://compudonjunior.in/wp-content/uploads/2022/08/digital-literacy-for-blog.jpg 1920w" data-sizes="(max-width: 1030px) 100vw, 1030px"  title="Digital Literacy and Its&#039; Relevance" ><img loading="lazy" width="1210" height="423" src="https://compudonjunior.in/wp-content/uploads/2022/08/digital-literacy-for-blog-1210x423.jpg" class="wp-image-4185 avia-img-lazy-loading-4185 attachment-entry_without_sidebar size-entry_without_sidebar wp-post-image" alt="Digital Literacy and Its&#039; Relevance" decoding="async" /></a></div><div class="blog-meta"></div><div class='entry-content-wrapper clearfix standard-content'><header class="entry-content-header"><h1 class='post-title entry-title '  itemprop="headline" >DIGITAL LITERACY AND ITS&#8217; RELEVANCE<span class="post-format-icon minor-meta"></span></h1><span class="post-meta-infos"><time class="date-container minor-meta updated"  itemprop="datePublished" datetime="2022-08-25T09:25:46+00:00" >August 25, 2022</time><span class="text-sep">/</span><span class="comment-container minor-meta"><a href="https://compudonjunior.in/2022/08/25/digital-literacy-and-its-relevance/#respond" class="comments-link" >0 Comments</a></span><span class="text-sep">/</span><span class="blog-categories minor-meta">in <a href="https://compudonjunior.in/category/blogs/" rel="tag">blogs</a></span><span class="text-sep">/</span><span class="blog-author minor-meta">by <span class="entry-author-link"  itemprop="author" ><span class="author"><span class="fn"><a href="https://compudonjunior.in/author/ritu-kaushik/" title="Posts by Ritu Kaushik" rel="author">Ritu Kaushik</a></span></span></span></span></span></header><div class="entry-content"  itemprop="text" ><p>Digital literacy- a term of immense relevance in the present. According to the UNICEF, it refers to the knowledge, skills and attitudes that allow one to be both safe and empowered in an increasingly digital world. The present scenario of digitalization broadly includes learning, researching, socializing and participating. With almost all aspects of education being covered digitally, digital literacy plays a vital role. One should be digitally literate to not only use the internet wisely but to use it with safety too. Cyber safety, hence is also an important aspect of being a digital literate. An individual needs to be cautious and alert of the various cyber-crimes/ threats that he/ she might be exposed to, while making use of the internet. As correctly said by the UNICEF, digital literacy allows one to be both safe and empowered in this digital World. While most of us are aware of how we are digitally empowered, many do not know how their safety is a threat.</p>
+<p>Digital literacy is not just a requirement, but a right. Hence the present generations must make themselves literate and educated enough to be aware of all facets of this term called ‘digital literacy’. In a World dominated by internet and surfing skills, we ought to make ourselves both, empowered and safe! While empowering ourself we should never neglect the most important feature of this digital World to “Be Safe”.</p>
+<p>As today we all know that without technology we could not survive during this pandemic only technology made our lives go smooth, and this has made us get over from this toughest time of the century. Online classes made our students learn new aspects of life in new dimension. All the offices work 24 X 7 with the work from home feature and saved on the electricity and other office cost as per other basic needs there.<br />
+New learning from home research, Innovation and creation displayed its new dimension with the technical proficient staff and workaholics. Teaching learning and self-development has opened new windows for every innovator with the help of Communication Collaboration and Participation.<br />
+While learning, Innovating and achieving through Digital Literacy ones digital Identity should be always kept safe as it’s the concern of their wellbeing and safety and security.</p>
+<p>Ms. Ritu Kaushik<br />
+Multimedia Professional<br />
+Bluebells School International<br />
+New Delhi, 110048</p>
+</div><footer class="entry-footer"><span class="blog-tags minor-meta"><strong>Tags:</strong><span> <a href="https://compudonjunior.in/tag/digital-literacy/" rel="tag">Digital Literacy</a></span></span><div class='av-social-sharing-box av-social-sharing-box-default av-social-sharing-box-fullwidth'><div class="av-share-box"><h5 class='av-share-link-description av-no-toc '>Share this entry</h5><ul class="av-share-box-list noLightbox"><li class='av-share-link av-social-link-facebook' ><a target="_blank" aria-label="Share on Facebook" href='https://www.facebook.com/sharer.php?u=https://compudonjunior.in/2022/08/25/digital-literacy-and-its-relevance/&#038;t=DIGITAL%20LITERACY%20AND%20ITS%E2%80%99%20RELEVANCE' aria-hidden='false' data-av_icon='' data-av_iconfont='entypo-fontello' title='' data-avia-related-tooltip='Share on Facebook' rel="noopener"><span class='avia_hidden_link_text'>Share on Facebook</span></a></li><li class='av-share-link av-social-link-twitter' ><a target="_blank" aria-label="Share on X" href='https://twitter.com/share?text=DIGITAL%20LITERACY%20AND%20ITS%E2%80%99%20RELEVANCE&#038;url=https://compudonjunior.in/?p=4155' aria-hidden='false' data-av_icon='' data-av_iconfont='entypo-fontello' title='' data-avia-related-tooltip='Share on X' rel="noopener"><span class='avia_hidden_link_text'>Share on X</span></a></li><li class='av-share-link av-social-link-square-x-twitter' ><a target="_blank" aria-label="Share on X" href='https://twitter.com/share?text=DIGITAL%20LITERACY%20AND%20ITS%E2%80%99%20RELEVANCE&#038;url=https://compudonjunior.in/?p=4155' aria-hidden='false' data-av_icon='' data-av_iconfont='entypo-fontello' title='' data-avia-related-tooltip='Share on X' rel="noopener"><span class='avia_hidden_link_text'>Share on X</span></a></li><li class='av-share-link av-social-link-pinterest' ><a target="_blank" aria-label="Share on Pinterest" href='https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fcompudonjunior.in%2F2022%2F08%2F25%2Fdigital-literacy-and-its-relevance%2F&#038;description=DIGITAL%20LITERACY%20AND%20ITS%E2%80%99%20RELEVANCE&#038;media=https%3A%2F%2Fcompudonjunior.in%2Fwp-content%2Fuploads%2F2022%2F08%2Fdigital-literacy-for-blog-705x498.jpg' aria-hidden='false' data-av_icon='' data-av_iconfont='entypo-fontello' title='' data-avia-related-tooltip='Share on Pinterest' rel="noopener"><span class='avia_hidden_link_text'>Share on Pinterest</span></a></li><li class='av-share-link av-social-link-linkedin' ><a target="_blank" aria-label="Share on LinkedIn" href='https://linkedin.com/shareArticle?mini=true&#038;title=DIGITAL%20LITERACY%20AND%20ITS%E2%80%99%20RELEVANCE&#038;url=https://compudonjunior.in/2022/08/25/digital-literacy-and-its-relevance/' aria-hidden='false' data-av_icon='' data-av_iconfont='entypo-fontello' title='' data-avia-related-tooltip='Share on LinkedIn' rel="noopener"><span class='avia_hidden_link_text'>Share on LinkedIn</span></a></li><li class='av-share-link av-social-link-tumblr' ><a target="_blank" aria-label="Share on Tumblr" href='https://www.tumblr.com/share/link?url=https%3A%2F%2Fcompudonjunior.in%2F2022%2F08%2F25%2Fdigital-literacy-and-its-relevance%2F&#038;name=DIGITAL%20LITERACY%20AND%20ITS%E2%80%99%20RELEVANCE&#038;description=Digital%20literacy-%20a%20term%20of%20immense%20relevance%20in%20the%20present.%20According%20to%20the%20UNICEF%2C%20it%20refers%20to%20the%20knowledge%2C%20skills%20and%20attitudes%20that%20allow%20one%20to%20be%20both%20safe%20and%20empowered%20in%20an%20increasingly%20digital%20world.%20The%20present%20scenario%20of%20digitalization%20broadly%20includes%20learning%2C%20researching%2C%20socializing%20and%20participating.%20With%20almost%20all%20aspects%20of%20education%20being%20%5B%E2%80%A6%5D' aria-hidden='false' data-av_icon='' data-av_iconfont='entypo-fontello' title='' data-avia-related-tooltip='Share on Tumblr' rel="noopener"><span class='avia_hidden_link_text'>Share on Tumblr</span></a></li><li class='av-share-link av-social-link-vk' ><a target="_blank" aria-label="Share on Vk" href='https://vk.com/share.php?url=https://compudonjunior.in/2022/08/25/digital-literacy-and-its-relevance/' aria-hidden='false' data-av_icon='' data-av_iconfont='entypo-fontello' title='' data-avia-related-tooltip='Share on Vk' rel="noopener"><span class='avia_hidden_link_text'>Share on Vk</span></a></li><li class='av-share-link av-social-link-reddit' ><a target="_blank" aria-label="Share on Reddit" href='https://reddit.com/submit?url=https://compudonjunior.in/2022/08/25/digital-literacy-and-its-relevance/&#038;title=DIGITAL%20LITERACY%20AND%20ITS%E2%80%99%20RELEVANCE' aria-hidden='false' data-av_icon='' data-av_iconfont='entypo-fontello' title='' data-avia-related-tooltip='Share on Reddit' rel="noopener"><span class='avia_hidden_link_text'>Share on Reddit</span></a></li><li class='av-share-link av-social-link-mail' ><a  aria-label="Share by Mail" href='mailto:?subject=DIGITAL%20LITERACY%20AND%20ITS%E2%80%99%20RELEVANCE&#038;body=https://compudonjunior.in/2022/08/25/digital-literacy-and-its-relevance/' aria-hidden='false' data-av_icon='' data-av_iconfont='entypo-fontello' title='' data-avia-related-tooltip='Share by Mail'><span class='avia_hidden_link_text'>Share by Mail</span></a></li></ul></div></div></footer><div class='post_delimiter'></div></div><div class="post_author_timeline"></div><span class='hidden'>
+				<span class='av-structured-data'  itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject" >
+						<span itemprop='url'>https://compudonjunior.in/wp-content/uploads/2022/08/digital-literacy-for-blog.jpg</span>
+						<span itemprop='height'>1355</span>
+						<span itemprop='width'>1920</span>
+				</span>
+				<span class='av-structured-data'  itemprop="publisher" itemtype="https://schema.org/Organization" itemscope="itemscope" >
+						<span itemprop='name'>Ritu Kaushik</span>
+						<span itemprop='logo' itemscope itemtype='https://schema.org/ImageObject'>
+							<span itemprop='url'>https://compudonjunior.in/wp-content/uploads/2022/10/COMPUDON-JUNIOR-Transparent.png</span>
+						</span>
+				</span><span class='av-structured-data'  itemprop="author" itemscope="itemscope" itemtype="https://schema.org/Person" ><span itemprop='name'>Ritu Kaushik</span></span><span class='av-structured-data'  itemprop="datePublished" datetime="2022-08-25T09:25:46+00:00" >2022-08-25 09:25:46</span><span class='av-structured-data'  itemprop="dateModified" itemtype="https://schema.org/dateModified" >2022-10-22 11:31:42</span><span class='av-structured-data'  itemprop="mainEntityOfPage" itemtype="https://schema.org/mainEntityOfPage" ><span itemprop='name'>DIGITAL LITERACY AND ITS&#8217; RELEVANCE</span></span></span></article><div class='single-big'></div>
+
+
+<div class='comment-entry post-entry'>
+
+			<div class='comment_meta_container'>
+
+				<div class='side-container-comment'>
+
+	        		<div class='side-container-comment-inner'>
+	        			
+	        			<span class='comment-count'>0</span>
+   						<span class='comment-text'>replies</span>
+   						<span class='center-border center-border-left'></span>
+   						<span class='center-border center-border-right'></span>
+
+					</div>
+				</div>
+			</div>
+<div class="comment_container"><h3 class='miniheading '>Leave a Reply</h3><span class="minitext">Want to join the discussion?<br />Feel free to contribute!</span>	<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2022/08/25/digital-literacy-and-its-relevance/#respond" style="display:none;">Cancel reply</a></small></h3><form action="https://compudonjunior.in/wp-comments-post.php" method="post" id="commentform" class="comment-form"><p class="comment-notes"><span id="email-notes">Your email address will not be published.</span> <span class="required-field-message">Required fields are marked <span class="required">*</span></span></p><p class="comment-form-author"><label for="author">Name <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" maxlength="245" autocomplete="name" required="required" /></p>
+<p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input id="email" name="email" type="text" value="" size="30" maxlength="100" aria-describedby="email-notes" autocomplete="email" required="required" /></p>
+<p class="comment-form-url"><label for="url">Website</label> <input id="url" name="url" type="text" value="" size="30" maxlength="200" autocomplete="url" /></p>
+<p class="comment-form-cookies-consent"><input id="wp-comment-cookies-consent" name="wp-comment-cookies-consent" type="checkbox" value="yes" /> <label for="wp-comment-cookies-consent">Save my name, email, and website in this browser for the next time I comment.</label></p>
+<p class="comment-form-comment"><label for="comment">Comment <span class="required">*</span></label> <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" required="required"></textarea></p><p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Post Comment" /> <input type='hidden' name='comment_post_ID' value='4155' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p></form>	</div><!-- #respond -->
+	</div>
+</div>
+
+				<!--end content-->
+				</main>
+
+				
+			</div><!--end container-->
+
+		</div><!-- close default .container_wrap element -->
+
+<div class="footer-page-content footer_color" id="footer-page"><div id='av_section_1'  class='avia-section av-l8v4w7zi-14d1558b7647be0ebc2d61737c5d7372 footer_color avia-section-default avia-no-border-styling  avia-builder-el-0  avia-builder-el-no-sibling  avia-bg-style-scroll container_wrap fullsize'  ><div class='container av-section-cont-open' ><main  role="main" itemscope="itemscope" itemtype="https://schema.org/Blog"  class='template-page content  av-content-full alpha units'><div class='post-entry post-entry-type-page post-entry-4155'><div class='entry-content-wrapper clearfix'>
+<div  class='flex_column av-8rhnz4-85bb7afbbf7d6537a6c85e1b9ea9c663 av_one_fourth  avia-builder-el-1  el_before_av_one_fifth  avia-builder-el-first  first flex_column_div  '     ><style type="text/css" data-created_by="avia_inline_auto" id="style-css-av-l8v4ypqb-b3bf9c17da693b071066b54d13fccce1">
+.avia-image-container.av-l8v4ypqb-b3bf9c17da693b071066b54d13fccce1 img.avia_image{
+box-shadow:none;
+}
+.avia-image-container.av-l8v4ypqb-b3bf9c17da693b071066b54d13fccce1 .av-image-caption-overlay-center{
+color:#ffffff;
+}
+</style>
+<div  class='avia-image-container av-l8v4ypqb-b3bf9c17da693b071066b54d13fccce1 av-styling- avia-align-center  avia-builder-el-2  el_before_av_textblock  avia-builder-el-first '   itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject" ><div class="avia-image-container-inner"><div class="avia-image-overlay-wrap"><img decoding="async" fetchpriority="high" class='wp-image-4582 avia-img-lazy-loading-not-4582 avia_image ' src="https://compudonjunior.in/wp-content/uploads/2022/11/CES-logo-white-300x74.png" alt='' title='CES logo white'  height="74" width="300"  itemprop="thumbnailUrl" srcset="https://compudonjunior.in/wp-content/uploads/2022/11/CES-logo-white-300x74.png 300w, https://compudonjunior.in/wp-content/uploads/2022/11/CES-logo-white-768x188.png 768w, https://compudonjunior.in/wp-content/uploads/2022/11/CES-logo-white-705x173.png 705w, https://compudonjunior.in/wp-content/uploads/2022/11/CES-logo-white.png 929w" sizes="(max-width: 300px) 100vw, 300px" /></div></div></div>
+
+<style type="text/css" data-created_by="avia_inline_auto" id="style-css-av-l8v50ajd-b54badd6ef24e214975a407f59585179">
+#top .av_textblock_section.av-l8v50ajd-b54badd6ef24e214975a407f59585179 .avia_textblock{
+font-size:13px;
+}
+</style>
+<section  class='av_textblock_section av-l8v50ajd-b54badd6ef24e214975a407f59585179 '   itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><div class='avia_textblock'  itemprop="text" ><p>CyberLearning Educational Society (CES) is a NGO arm of India CyberLearning Pvt Ltd., which is a Global Training Partner of Microsoft and is a group of committed individuals who are problem-solvers &#038; leaders, who want to create a lasting change and want to empower &#038; secure every child through digital literacy for success in 21<sup>st</sup> century global economy.</p>
+<p>For more than 15 years, CES has contributed to the cause of digital literacy through partnerships with National and Global NGOs and Foundations.</p>
+</div></section></div><div  class='flex_column av-6zgxao-c4ea09aeb24c0456e200573420976bd3 av_one_fifth  avia-builder-el-4  el_after_av_one_fourth  el_before_av_one_fourth  flex_column_div  '     ><section  class='av_textblock_section av-l8v51b4d-bfeb5a2265f4e255bead8d910535c27f '   itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><div class='avia_textblock'  itemprop="text" ><h3>Featured Links</h3>
+</div></section>
+
+<style type="text/css" data-created_by="avia_inline_auto" id="style-css-av-l8v54nje-5004aba1ad99fc4078654568a73d1c20">
+#top .avia-icon-list-container.av-l8v54nje-5004aba1ad99fc4078654568a73d1c20 .iconlist_icon{
+color:#fdcc3b;
+font-size:15px;
+}
+#top #wrap_all .avia-icon-list-container.av-l8v54nje-5004aba1ad99fc4078654568a73d1c20 .av_iconlist_title{
+font-size:15px;
+}
+</style>
+<div  class='avia-icon-list-container av-l8v54nje-5004aba1ad99fc4078654568a73d1c20  avia-builder-el-6  el_after_av_textblock  avia-builder-el-last '><ul class='avia-icon-list avia_animate_when_almost_visible avia-icon-list-left av-iconlist-small av-l8v54nje-5004aba1ad99fc4078654568a73d1c20 avia-iconlist-animate'>
+<li><div class='iconlist_icon av-l8v526zo-aeb1d4efa4bff92225b05f256a557b00 avia-font-entypo-fontello'><span class='iconlist-char' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></span></div><article class="article-icon-entry av-iconlist-empty"  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><div class="iconlist_content_wrap"><header class="entry-content-header"><div class='av_iconlist_title iconlist_title_small  '  itemprop="headline" ><a href='https://compudonjunior.in/' title='Home'>Home</a></div></header><div class='iconlist_content '  itemprop="text" ></div></div><footer class="entry-footer"></footer></article><div class="iconlist-timeline"></div></li>
+<li><div class='iconlist_icon av-l8v526zo-7-a8133f6dfaba1519f7781fb6d2fe5515 avia-font-entypo-fontello'><span class='iconlist-char' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></span></div><article class="article-icon-entry av-iconlist-empty"  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><div class="iconlist_content_wrap"><header class="entry-content-header"><div class='av_iconlist_title iconlist_title_small  '  itemprop="headline" ><a href='https://compudonjunior.in/wp-content/uploads/2024/04/CJ-Season-V-FAQs.pdf' title='FAQs'>FAQs</a></div></header><div class='iconlist_content '  itemprop="text" ></div></div><footer class="entry-footer"></footer></article><div class="iconlist-timeline"></div></li>
+<li><div class='iconlist_icon av-l8v526zo-8-1-5b7580fe0fb0a0df8d1307d1ad6f5118 avia-font-entypo-fontello'><span class='iconlist-char' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></span></div><article class="article-icon-entry av-iconlist-empty"  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><div class="iconlist_content_wrap"><header class="entry-content-header"><div class='av_iconlist_title iconlist_title_small  '  itemprop="headline" ><a href='https://compudonjunior.in/past-seasons/' title='Past Seasons'>Past Seasons</a></div></header><div class='iconlist_content '  itemprop="text" ></div></div><footer class="entry-footer"></footer></article><div class="iconlist-timeline"></div></li>
+<li><div class='iconlist_icon av-l8v526zo-8-1-2-bcd173a8d2062e265025805f7834eb6b avia-font-entypo-fontello'><span class='iconlist-char' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></span></div><article class="article-icon-entry av-iconlist-empty"  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><div class="iconlist_content_wrap"><header class="entry-content-header"><div class='av_iconlist_title iconlist_title_small  '  itemprop="headline" ><a href='https://compudonjunior.in/advisoryboard/' title='Advisory Board'>Advisory Board</a></div></header><div class='iconlist_content '  itemprop="text" ></div></div><footer class="entry-footer"></footer></article><div class="iconlist-timeline"></div></li>
+<li><div class='iconlist_icon av-l9r0et31-a09cd66a6ce181295ea3199fbdac4b50 avia-font-entypo-fontello'><span class='iconlist-char' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></span></div><article class="article-icon-entry av-iconlist-empty"  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><div class="iconlist_content_wrap"><header class="entry-content-header"><div class='av_iconlist_title iconlist_title_small  '  itemprop="headline" ><a href='https://compudonjunior.in/awardvoucher/' title='Award Voucher' target="_blank"  rel="noopener noreferrer">Award Voucher</a></div></header><div class='iconlist_content '  itemprop="text" ></div></div><footer class="entry-footer"></footer></article><div class="iconlist-timeline"></div></li>
+<li><div class='iconlist_icon av-l8v526zo-10-37264d0667d5a00b68ba911df6faf6ec avia-font-entypo-fontello'><span class='iconlist-char' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></span></div><article class="article-icon-entry av-iconlist-empty"  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><div class="iconlist_content_wrap"><header class="entry-content-header"><div class='av_iconlist_title iconlist_title_small  '  itemprop="headline" ><a href='https://compudonjunior.in/legal/' title='Legal'>Legal</a></div></header><div class='iconlist_content '  itemprop="text" ></div></div><footer class="entry-footer"></footer></article><div class="iconlist-timeline"></div></li>
+<li><div class='iconlist_icon av-l8v526zo-9-358756b03aac77f7a124d6c7cbbe4fc5 avia-font-entypo-fontello'><span class='iconlist-char' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></span></div><article class="article-icon-entry av-iconlist-empty"  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><div class="iconlist_content_wrap"><header class="entry-content-header"><div class='av_iconlist_title iconlist_title_small  '  itemprop="headline" ><a href='https://compudonjunior.in/privacy-cookies-policy/' title='Privacy &amp; Cookies'>Privacy & Cookies</a></div></header><div class='iconlist_content '  itemprop="text" ></div></div><footer class="entry-footer"></footer></article><div class="iconlist-timeline"></div></li>
+<li><div class='iconlist_icon av-l8v526zo-6-1-61d25c44341e4f7bf370b52ee5ed047f avia-font-entypo-fontello'><span class='iconlist-char' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></span></div><article class="article-icon-entry av-iconlist-empty"  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><div class="iconlist_content_wrap"><header class="entry-content-header"><div class='av_iconlist_title iconlist_title_small  '  itemprop="headline" ><a href='https://compudonjunior.in/terms-of-service-user-agreement/' title='Terms of Service'>Terms of Service</a></div></header><div class='iconlist_content '  itemprop="text" ></div></div><footer class="entry-footer"></footer></article><div class="iconlist-timeline"></div></li>
+</ul></div></div><div  class='flex_column av-577lz4-15c26cac649fc47d8e66b0cf830552c3 av_one_fourth  avia-builder-el-7  el_after_av_one_fifth  el_before_av_one_fourth  flex_column_div  '     ><section  class='av_textblock_section av-l8v54yib-caef24fe6d66057b1f875464b060db1a '   itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><div class='avia_textblock'  itemprop="text" ><h3>Information</h3>
+</div></section>
+
+<style type="text/css" data-created_by="avia_inline_auto" id="style-css-av-l8v56kg3-ed7ef7b889abedd7398e0972d1132110">
+#top .avia-icon-list-container.av-l8v56kg3-ed7ef7b889abedd7398e0972d1132110 .iconlist_icon{
+color:#fdcc3b;
+font-size:14px;
+}
+#top #wrap_all .avia-icon-list-container.av-l8v56kg3-ed7ef7b889abedd7398e0972d1132110 .av_iconlist_title{
+font-size:14px;
+}
+</style>
+<div  class='avia-icon-list-container av-l8v56kg3-ed7ef7b889abedd7398e0972d1132110  avia-builder-el-9  el_after_av_textblock  el_before_av_textblock '><ul class='avia-icon-list avia_animate_when_almost_visible avia-icon-list-left av-iconlist-small av-l8v56kg3-ed7ef7b889abedd7398e0972d1132110'>
+<li><div class='iconlist_icon av-l8v55up8-e82e15b832bf77b695cbca35d109d3b7 avia-font-entypo-fontello'><span class='iconlist-char' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></span></div><article class="article-icon-entry av-iconlist-empty"  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><div class="iconlist_content_wrap"><header class="entry-content-header"><div class='av_iconlist_title iconlist_title_small  '  itemprop="headline" ><a href='tel:918383056545' title='(+91) 83830-56545'>(+91) 83830-56545</a></div></header><div class='iconlist_content '  itemprop="text" ></div></div><footer class="entry-footer"></footer></article><div class="iconlist-timeline"></div></li>
+<li><div class='iconlist_icon av-l8v56ifp-0a858ee42d23f13d2bfc709735b31574 avia-font-entypo-fontello'><span class='iconlist-char' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></span></div><article class="article-icon-entry av-iconlist-empty"  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><div class="iconlist_content_wrap"><header class="entry-content-header"><div class='av_iconlist_title iconlist_title_small  '  itemprop="headline" ><a href='mailto:info@compudonjunior.in' title='info@compudonjunior.in'>info@compudonjunior.in</a></div></header><div class='iconlist_content '  itemprop="text" ></div></div><footer class="entry-footer"></footer></article><div class="iconlist-timeline"></div></li>
+</ul></div>
+<section  class='av_textblock_section av-l9777kcf-9069c3fde55e19bdf3809a0f543f5f64 '   itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><div class='avia_textblock'  itemprop="text" ><h3><img loading="lazy" decoding="async" class="alignnone size-full wp-image-4080" src="https://compudonjunior.in/wp-content/uploads/2022/10/GTP-High-Resolution.png" alt="" width="247" height="204" /></h3>
+</div></section></div><div  class='flex_column av-45985s-48a3236bfe2e788347f569d252514405 av_one_fourth  avia-builder-el-11  el_after_av_one_fourth  avia-builder-el-last  flex_column_div  '     ><section  class='av_textblock_section av-l8v56us2-1220ce380b20b2373deff936e63871ec '   itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><div class='avia_textblock'  itemprop="text" ><h3><a href="https://www.flickr.com/photos/compudon_memoirs">COMPUDON Flickr Photos</a></h3>
+</div></section>
+<div id='av-masonry-1' class='av-masonry av-32lc4w-b0e646c2c298c301c802cfd95ae81533 noHover av-fixed-size av-large-gap av-hover-overlay-fade_out av-masonry-animation-active av-masonry-col-3 av-caption-always av-caption-style- av-masonry-gallery av-orientation-square ' data-post_id="3264"><div class="av-masonry-container isotope av-js-disabled"><div class='av-masonry-entry isotope-item av-masonry-item-no-image '></div><a href="https://compudonjunior.in/wp-content/uploads/2022/10/DSC_7963-2-1030x687.jpg" data-srcset="https://compudonjunior.in/wp-content/uploads/2022/10/DSC_7963-2-1030x687.jpg 1030w, https://compudonjunior.in/wp-content/uploads/2022/10/DSC_7963-2-300x200.jpg 300w, https://compudonjunior.in/wp-content/uploads/2022/10/DSC_7963-2-768x512.jpg 768w, https://compudonjunior.in/wp-content/uploads/2022/10/DSC_7963-2-705x470.jpg 705w, https://compudonjunior.in/wp-content/uploads/2022/10/DSC_7963-2.jpg 1200w" data-sizes="(max-width: 1030px) 100vw, 1030px"  aria-label="image image with no title"  id='av-masonry-1-item-3616' data-av-masonry-item='3616' class='av-masonry-entry isotope-item post-3616 attachment type-attachment status-inherit hentry  av-masonry-item-with-image' title="" alt=""    itemprop="thumbnailUrl" ><div class='av-inner-masonry-sizer'></div><figure class='av-inner-masonry main_color'><div class="av-masonry-outerimage-container"><div class='av-masonry-image-container' style="background-image: url(https://compudonjunior.in/wp-content/uploads/2022/10/DSC_7963-2-80x80.jpg);"  ></div></div></figure></a><!--end av-masonry entry--><a href="https://compudonjunior.in/wp-content/uploads/2022/10/DSC_7955-2-1030x687.jpg" data-srcset="https://compudonjunior.in/wp-content/uploads/2022/10/DSC_7955-2-1030x687.jpg 1030w, https://compudonjunior.in/wp-content/uploads/2022/10/DSC_7955-2-300x200.jpg 300w, https://compudonjunior.in/wp-content/uploads/2022/10/DSC_7955-2-768x512.jpg 768w, https://compudonjunior.in/wp-content/uploads/2022/10/DSC_7955-2-705x470.jpg 705w, https://compudonjunior.in/wp-content/uploads/2022/10/DSC_7955-2.jpg 1200w" data-sizes="(max-width: 1030px) 100vw, 1030px"  aria-label="image image with no title"  id='av-masonry-1-item-3615' data-av-masonry-item='3615' class='av-masonry-entry isotope-item post-3615 attachment type-attachment status-inherit hentry  av-masonry-item-with-image' title="" alt=""    itemprop="thumbnailUrl" ><div class='av-inner-masonry-sizer'></div><figure class='av-inner-masonry main_color'><div class="av-masonry-outerimage-container"><div class='av-masonry-image-container' style="background-image: url(https://compudonjunior.in/wp-content/uploads/2022/10/DSC_7955-2-80x80.jpg);"  ></div></div></figure></a><!--end av-masonry entry--><a href="https://compudonjunior.in/wp-content/uploads/2022/10/DSC_7949-3-1030x687.jpg" data-srcset="https://compudonjunior.in/wp-content/uploads/2022/10/DSC_7949-3-1030x687.jpg 1030w, https://compudonjunior.in/wp-content/uploads/2022/10/DSC_7949-3-300x200.jpg 300w, https://compudonjunior.in/wp-content/uploads/2022/10/DSC_7949-3-768x512.jpg 768w, https://compudonjunior.in/wp-content/uploads/2022/10/DSC_7949-3-705x470.jpg 705w, https://compudonjunior.in/wp-content/uploads/2022/10/DSC_7949-3.jpg 1200w" data-sizes="(max-width: 1030px) 100vw, 1030px"  aria-label="image image with no title"  id='av-masonry-1-item-3614' data-av-masonry-item='3614' class='av-masonry-entry isotope-item post-3614 attachment type-attachment status-inherit hentry  av-masonry-item-with-image' title="" alt=""    itemprop="thumbnailUrl" ><div class='av-inner-masonry-sizer'></div><figure class='av-inner-masonry main_color'><div class="av-masonry-outerimage-container"><div class='av-masonry-image-container' style="background-image: url(https://compudonjunior.in/wp-content/uploads/2022/10/DSC_7949-3-80x80.jpg);"  ></div></div></figure></a><!--end av-masonry entry--><a href="https://compudonjunior.in/wp-content/uploads/2022/10/DSC_4859-1-4-1030x684.jpg" data-srcset="https://compudonjunior.in/wp-content/uploads/2022/10/DSC_4859-1-4-1030x684.jpg 1030w, https://compudonjunior.in/wp-content/uploads/2022/10/DSC_4859-1-4-300x199.jpg 300w, https://compudonjunior.in/wp-content/uploads/2022/10/DSC_4859-1-4-768x510.jpg 768w, https://compudonjunior.in/wp-content/uploads/2022/10/DSC_4859-1-4-705x468.jpg 705w, https://compudonjunior.in/wp-content/uploads/2022/10/DSC_4859-1-4.jpg 1200w" data-sizes="(max-width: 1030px) 100vw, 1030px"  aria-label="image image with no title"  id='av-masonry-1-item-3613' data-av-masonry-item='3613' class='av-masonry-entry isotope-item post-3613 attachment type-attachment status-inherit hentry  av-masonry-item-with-image' title="" alt=""    itemprop="thumbnailUrl" ><div class='av-inner-masonry-sizer'></div><figure class='av-inner-masonry main_color'><div class="av-masonry-outerimage-container"><div class='av-masonry-image-container' style="background-image: url(https://compudonjunior.in/wp-content/uploads/2022/10/DSC_4859-1-4-80x80.jpg);"  ></div></div></figure></a><!--end av-masonry entry--><a href="https://compudonjunior.in/wp-content/uploads/2022/10/DSC_0155-1030x687.jpg" data-srcset="https://compudonjunior.in/wp-content/uploads/2022/10/DSC_0155-1030x687.jpg 1030w, https://compudonjunior.in/wp-content/uploads/2022/10/DSC_0155-300x200.jpg 300w, https://compudonjunior.in/wp-content/uploads/2022/10/DSC_0155-768x512.jpg 768w, https://compudonjunior.in/wp-content/uploads/2022/10/DSC_0155-705x470.jpg 705w, https://compudonjunior.in/wp-content/uploads/2022/10/DSC_0155.jpg 1200w" data-sizes="(max-width: 1030px) 100vw, 1030px"  aria-label="image Winner with Dr. Vinnie Jauhari"  id='av-masonry-1-item-3609' data-av-masonry-item='3609' class='av-masonry-entry isotope-item post-3609 attachment type-attachment status-inherit hentry  av-masonry-item-with-image' title="" alt=""    itemprop="thumbnailUrl" ><div class='av-inner-masonry-sizer'></div><figure class='av-inner-masonry main_color'><div class="av-masonry-outerimage-container"><div class='av-masonry-image-container' style="background-image: url(https://compudonjunior.in/wp-content/uploads/2022/10/DSC_0155-80x80.jpg);"  title="Winner with Dr. Vinnie Jauhari"  ></div></div></figure></a><!--end av-masonry entry--><a href="https://compudonjunior.in/wp-content/uploads/2022/10/DSC_0157-1-1030x684.jpg" data-srcset="https://compudonjunior.in/wp-content/uploads/2022/10/DSC_0157-1-1030x684.jpg 1030w, https://compudonjunior.in/wp-content/uploads/2022/10/DSC_0157-1-300x199.jpg 300w, https://compudonjunior.in/wp-content/uploads/2022/10/DSC_0157-1-768x510.jpg 768w, https://compudonjunior.in/wp-content/uploads/2022/10/DSC_0157-1-705x468.jpg 705w, https://compudonjunior.in/wp-content/uploads/2022/10/DSC_0157-1.jpg 1200w" data-sizes="(max-width: 1030px) 100vw, 1030px"  aria-label="image image with no title"  id='av-masonry-1-item-3610' data-av-masonry-item='3610' class='av-masonry-entry isotope-item post-3610 attachment type-attachment status-inherit hentry  av-masonry-item-with-image' title="" alt=""    itemprop="thumbnailUrl" ><div class='av-inner-masonry-sizer'></div><figure class='av-inner-masonry main_color'><div class="av-masonry-outerimage-container"><div class='av-masonry-image-container' style="background-image: url(https://compudonjunior.in/wp-content/uploads/2022/10/DSC_0157-1-80x80.jpg);"  ></div></div></figure></a><!--end av-masonry entry--></div></div></div>
+</div></div></main><!-- close content main element --> <!-- section close by builder template -->		</div><!--end builder template--></div><!-- close default .container_wrap element --></div>
+
+	
+				<footer class='container_wrap socket_color' id='socket'  role="contentinfo" itemscope="itemscope" itemtype="https://schema.org/WPFooter" >
+                    <div class='container'>
+
+                        <span class='copyright'>© 2022 India CyberLearning Pvt. Ltd. All Rights Reserved. | Designed & Developed by <a href="https://www.contrasoft.in/">Contrasoft Technologies</a> </span>
+
+                        
+                    </div>
+
+	            <!-- ####### END SOCKET CONTAINER ####### -->
+				</footer>
+
+
+					<!-- end main -->
+		</div>
+
+		<a class='avia-post-nav avia-post-prev with-image' href='https://compudonjunior.in/2022/07/22/4384/' ><span class="label iconfont" aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></span><span class="entry-info-wrap"><span class="entry-info"><span class='entry-title'>DEATH BY A CLICK &#8211; THE TV 9 STORY</span><span class='entry-image'><img width="80" height="80" src="https://compudonjunior.in/wp-content/uploads/2022/07/phishing-for-ransomware-80x80.jpeg" class="wp-image-4389 avia-img-lazy-loading-4389 attachment-thumbnail size-thumbnail wp-post-image" alt="Death By a Click (TV 9 Story)" decoding="async" loading="lazy" srcset="https://compudonjunior.in/wp-content/uploads/2022/07/phishing-for-ransomware-80x80.jpeg 80w, https://compudonjunior.in/wp-content/uploads/2022/07/phishing-for-ransomware-36x36.jpeg 36w, https://compudonjunior.in/wp-content/uploads/2022/07/phishing-for-ransomware-180x180.jpeg 180w" sizes="auto, (max-width: 80px) 100vw, 80px" /></span></span></span></a><a class='avia-post-nav avia-post-next with-image' href='https://compudonjunior.in/2022/09/15/digital-literacy-is-the-key-to-future/' ><span class="label iconfont" aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></span><span class="entry-info-wrap"><span class="entry-info"><span class='entry-image'><img width="80" height="80" src="https://compudonjunior.in/wp-content/uploads/2022/09/digital-literacy-is-the-key-1-80x80.png" class="wp-image-4282 avia-img-lazy-loading-4282 attachment-thumbnail size-thumbnail wp-post-image" alt="Digital Literacy is the Key" decoding="async" loading="lazy" srcset="https://compudonjunior.in/wp-content/uploads/2022/09/digital-literacy-is-the-key-1-80x80.png 80w, https://compudonjunior.in/wp-content/uploads/2022/09/digital-literacy-is-the-key-1-36x36.png 36w, https://compudonjunior.in/wp-content/uploads/2022/09/digital-literacy-is-the-key-1-180x180.png 180w" sizes="auto, (max-width: 80px) 100vw, 80px" /></span><span class='entry-title'>DIGITAL LITERACY IS THE KEY TO FUTURE</span></span></span></a><!-- end wrap_all --></div>
+
+<a href='#top' title='Scroll to top' id='scroll-top-link' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello' tabindex='-1'><span class="avia_hidden_link_text">Scroll to top</span></a>
+
+<div id="fb-root"></div>
+
+
+ <script type='text/javascript'>
+ /* <![CDATA[ */  
+var avia_framework_globals = avia_framework_globals || {};
+    avia_framework_globals.frameworkUrl = 'https://compudonjunior.in/wp-content/themes/enfold/framework/';
+    avia_framework_globals.installedAt = 'https://compudonjunior.in/wp-content/themes/enfold/';
+    avia_framework_globals.ajaxurl = 'https://compudonjunior.in/wp-admin/admin-ajax.php';
+/* ]]> */ 
+</script>
+ 
+ <script type="text/javascript" src="https://compudonjunior.in/wp-includes/js/underscore.min.js?ver=1.13.7" id="underscore-js"></script>
+<script type="text/javascript" src="https://compudonjunior.in/wp-includes/js/comment-reply.min.js?ver=6.7.1" id="comment-reply-js" async="async" data-wp-strategy="async"></script>
+<script type="text/javascript" src="https://compudonjunior.in/wp-content/themes/enfold/config-lottie-animations/assets/lottie-player/dotlottie-player.js?ver=5.7.1" id="avia-dotlottie-script-js"></script>
+<script type="text/javascript" src="https://compudonjunior.in/wp-content/uploads/dynamic_avia/avia-footer-scripts-b9142a52ddb7e347707862b037ca4e93---673fc8797168b.js" id="avia-footer-scripts-js"></script>
+</body>
+</html>
